@@ -84,7 +84,6 @@ Suivez les étapes ci-dessous pour tester cette API à l’aide de l’outil Pos
 
 Exemple de réponse :
 
-   ```shell
      {
        "x": 6,
        "y": 4
