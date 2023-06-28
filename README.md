@@ -30,6 +30,28 @@ Ce projet est une application Web pour gérer les déplacements d'un aventurier 
    
 Le backend sera lancé et sera accessible à l'URL http://localhost:8080.
 
+## Tests
+
+Le projet comprend des tests unitaires pour le backend.
+
+
+Les tests unitaires du backend sont écrits en utilisant le framework de test JUnit.
+
+Pour exécuter les tests du backend, suivez les étapes suivantes :
+
+1.	Accédez au répertoire du projet backend :
+
+    ```shell
+    cd aventurier/backend
+
+
+2.	Exécutez la commande suivante pour exécuter les tests :
+
+    ```shell
+    mvn test
+
+Les tests seront exécutés et les résultats seront affichés dans la console.
+
 ### Frontend
 
 1. Accédez au répertoire du projet frontend :
