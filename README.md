@@ -84,11 +84,11 @@ Suivez les étapes ci-dessous pour tester cette API à l’aide de l’outil Pos
 
 Exemple de réponse :
 
-    ```shell
-    {
-      "x": 6,
-      "y": 4
-    }
+   ```shell
+     {
+       "x": 6,
+       "y": 4
+     }
 
 8.	Les coordonnées x et y représentent la position finale du personnage après les mouvements spécifiés.
 
