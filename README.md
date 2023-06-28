@@ -16,7 +16,7 @@ Ce projet est une application Web pour gérer les déplacements d'un aventurier 
 1. Clonez ce dépôt Git :
 
    ```shell
-   git clone https://github.com/votre-utilisateur/aventurier.git
+   git clone https://github.com/Salahlemangar/aventurier.git
 
 2. Accédez au répertoire du projet backend :
 
@@ -28,14 +28,14 @@ Ce projet est une application Web pour gérer les déplacements d'un aventurier 
    ```shell
    mvn spring-boot:run
    
-Le backend sera lancé et sera accessible à l'URL http://localhost:8080/api/character/move/.
+Le backend sera lancé et sera accessible à l'URL http://localhost:8080.
 
 ### Frontend
 
 1. Accédez au répertoire du projet frontend :
 
    ```shell
-   cd aventurier/frontend
+   cd aventurier/aventurierfrontend
    
 2. Installez les dépendances Node.js :
 
@@ -57,7 +57,7 @@ Le frontend sera lancé et sera accessible à l'URL http://localhost:4200.
 
 ### Frontend
 
-1. Ouvrez un navigateur Web et accédez à l'URL http://localhost:8081.
+1. Ouvrez un navigateur Web et accédez à l'URL http://localhost:4200.
 2. Utilisez le formulaire pour saisir les coordonnées initiales et les mouvements de l'aventurier.
 3. Cliquez sur le bouton "Déplacer" pour obtenir les nouvelles coordonnées de l'aventurier.
 
